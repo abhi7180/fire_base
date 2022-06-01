@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">568049077986475</string>
+    <string name="fb_login_protocol_scheme">fb568049077986475</string>
+    <string name="facebook_client_token">d5237100df14753d61db48ced2fca6b3</string>
+    <string name="app_name">crmyapp</string>
+</resources>
